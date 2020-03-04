@@ -1,0 +1,4 @@
+username: cisco
+password: cisco
+port: 22
+platform: ios

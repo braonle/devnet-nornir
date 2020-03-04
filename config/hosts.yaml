@@ -1,0 +1,28 @@
+SW1:
+     hostname: 192.168.1.11
+     groups:
+         - switch
+SW2:
+     hostname: 192.168.1.22
+     groups:
+         - switch
+SW3:
+     hostname: 192.168.1.33
+     groups:
+         - switch
+SW4:
+     hostname: 192.168.1.44
+     groups:
+         - switch
+R1:
+     hostname: 192.168.1.1
+     groups:
+         - router
+R2:
+     hostname: 192.168.1.2
+     groups:
+         - router
+R3:
+     hostname: 192.168.1.3
+     groups:
+         - router

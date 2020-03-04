@@ -1,0 +1,7 @@
+switch:
+  data:
+    empty: 0
+
+router:
+  data:
+    empty: 0
