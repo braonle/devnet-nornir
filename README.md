@@ -33,7 +33,7 @@ sudo tunctl -t tap0
 sudo ifconfig tap0 192.168.100.1/24 up
 ```
 
-## Статический мартшрут через tap0
+## Статический маршрут через tap0
 ``` shell
 sudo ip route add 192.168.1.0/24 via 192.168.100.2
 ```
